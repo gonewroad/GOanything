@@ -1,0 +1,16 @@
+# 환경 변수 / 비밀값
+.env
+.env.*
+!.env.example
+
+# OS 생성 파일
+.DS_Store
+Thumbs.db
+
+# 에디터 설정
+.vscode/
+.idea/
+*.swp
+
+# 로그
+*.log
