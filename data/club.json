@@ -1,0 +1,36 @@
+{
+  "name": "CLIMB ON",
+  "university": "○○대학교",
+  "tagline": "벽 앞에서는 누구나 처음입니다",
+  "intro": "운동 경험도, 장비도 없어도 괜찮습니다. 매주 같은 벽 앞에 모여 한 칸씩 더 올라가는 대학 클라이밍 동아리입니다.",
+  "founded": "2019",
+  "memberCount": "38",
+  "homeGym": {
+    "name": "○○ 클라이밍 짐",
+    "address": "서울시 ○○구 ○○로 00, 지하 1층",
+    "walk": "학교 정문에서 도보 10분",
+    "mapUrl": ""
+  },
+  "fee": {
+    "amount": "40,000",
+    "period": "학기",
+    "includes": "암장 이용료 일부 지원, 장비 대여, 동아리 티셔츠"
+  },
+  "meetings": [
+    { "day": "화요일", "time": "19:00 – 22:00" },
+    { "day": "금요일", "time": "19:00 – 22:00" }
+  ],
+  "contact": {
+    "instagram": "climbon_official",
+    "instagramUrl": "https://instagram.com/",
+    "openChatUrl": "",
+    "email": ""
+  },
+  "recruit": {
+    "open": true,
+    "period": "매 학기 개강 첫 2주",
+    "nextPeriod": "3월 2일 – 3월 15일",
+    "formUrl": "",
+    "capacity": "15"
+  }
+}

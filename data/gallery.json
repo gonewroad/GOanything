@@ -1,0 +1,10 @@
+[
+  { "src": "assets/img/gallery/g01.svg", "alt": "볼더링 문제를 푸는 회원", "caption": "화요일 정기 세션" },
+  { "src": "assets/img/gallery/g02.svg", "alt": "다이노 동작을 시도하는 회원", "caption": "다이노 연습" },
+  { "src": "assets/img/gallery/g03.svg", "alt": "외벽 등반 중인 회원", "caption": "북한산 외벽 등반" },
+  { "src": "assets/img/gallery/g04.svg", "alt": "신입 환영 세션 단체 사진", "caption": "신입 환영 세션" },
+  { "src": "assets/img/gallery/g05.svg", "alt": "교내 대회 결선", "caption": "교내 볼더링 대회" },
+  { "src": "assets/img/gallery/g06.svg", "alt": "루트를 함께 읽는 회원들", "caption": "루트 파인딩" },
+  { "src": "assets/img/gallery/g07.svg", "alt": "암장 뒤풀이", "caption": "세션 후 뒤풀이" },
+  { "src": "assets/img/gallery/g08.svg", "alt": "MT 단체 사진", "caption": "여름 MT" }
+]

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-label="대표 사진을 넣어주세요">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="hsl(210 18% 16%)"/>
+      <stop offset="1" stop-color="hsl(234 22% 8%)"/>
+    </linearGradient>
+    <pattern id="grit" width="6" height="6" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="0.7" fill="#fff" opacity="0.05"/>
+      <circle cx="4.5" cy="4" r="0.5" fill="#fff" opacity="0.04"/>
+    </pattern>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <rect width="1600" height="900" fill="url(#grit)"/>
+  <g transform="translate(552 186) rotate(26)" opacity="0.85"><rect x="-38" y="-24" width="76" height="47" rx="19" fill="#FF6B2C"/></g><g transform="translate(851 348) rotate(183)" opacity="0.85"><rect x="-21" y="-13" width="42" height="26" rx="10" fill="#C8FF3D"/></g><g transform="translate(149 400) rotate(33)" opacity="0.85"><rect x="-21" y="-13" width="42" height="26" rx="11" fill="#46D5FF"/></g><g transform="translate(694 697) rotate(80)" opacity="0.85"><rect x="-23" y="-14" width="46" height="28" rx="11" fill="#FF4D6D"/></g><g transform="translate(979 788) rotate(143)" opacity="0.85"><rect x="-36" y="-22" width="72" height="44" rx="18" fill="#FFD23F"/></g><g transform="translate(1471 107) rotate(104)" opacity="0.85"><rect x="-44" y="-27" width="88" height="54" rx="22" fill="#9D7BFF"/></g><g transform="translate(299 161) rotate(294)" opacity="0.85"><rect x="-28" y="-17" width="56" height="35" rx="14" fill="#FF6B2C"/></g><g transform="translate(350 512) rotate(134)" opacity="0.85"><rect x="-38" y="-23" width="75" height="47" rx="19" fill="#C8FF3D"/></g><g transform="translate(867 119) rotate(74)" opacity="0.85"><rect x="-21" y="-13" width="42" height="26" rx="10" fill="#46D5FF"/></g><g transform="translate(1054 395) rotate(211)" opacity="0.85"><rect x="-28" y="-18" width="56" height="35" rx="14" fill="#FF4D6D"/></g><g transform="translate(734 299) rotate(252)" opacity="0.85"><rect x="-42" y="-26" width="84" height="52" rx="21" fill="#FFD23F"/></g><g transform="translate(440 506) rotate(315)" opacity="0.85"><rect x="-34" y="-21" width="69" height="43" rx="17" fill="#9D7BFF"/></g><g transform="translate(1123 290) rotate(43)" opacity="0.85"><rect x="-47" y="-29" width="95" height="59" rx="24" fill="#FF6B2C"/></g><g transform="translate(685 644) rotate(176)" opacity="0.85"><rect x="-24" y="-15" width="47" height="29" rx="12" fill="#C8FF3D"/></g><g transform="translate(151 577) rotate(206)" opacity="0.85"><rect x="-41" y="-26" width="82" height="51" rx="21" fill="#46D5FF"/></g><g transform="translate(1329 309) rotate(214)" opacity="0.85"><rect x="-39" y="-24" width="78" height="49" rx="20" fill="#FF4D6D"/></g><g transform="translate(912 417) rotate(340)" opacity="0.85"><rect x="-43" y="-27" width="87" height="54" rx="22" fill="#FFD23F"/></g><g transform="translate(764 574) rotate(253)" opacity="0.85"><rect x="-21" y="-13" width="42" height="26" rx="10" fill="#9D7BFF"/></g><g transform="translate(1007 823) rotate(102)" opacity="0.85"><rect x="-43" y="-27" width="86" height="53" rx="21" fill="#FF6B2C"/></g><g transform="translate(639 578) rotate(166)" opacity="0.85"><rect x="-20" y="-12" width="40" height="25" rx="10" fill="#C8FF3D"/></g>
+  <text x="800" y="872" text-anchor="middle" font-family="sans-serif"
+        font-size="26" fill="#fff" opacity="0.32">대표 사진을 넣어주세요</text>
+</svg>

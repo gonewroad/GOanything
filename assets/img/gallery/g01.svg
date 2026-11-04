@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-label="사진 01">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="hsl(58 18% 16%)"/>
+      <stop offset="1" stop-color="hsl(82 22% 8%)"/>
+    </linearGradient>
+    <pattern id="grit" width="6" height="6" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="0.7" fill="#fff" opacity="0.05"/>
+      <circle cx="4.5" cy="4" r="0.5" fill="#fff" opacity="0.04"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <rect width="1200" height="900" fill="url(#grit)"/>
+  <g transform="translate(249 161) rotate(277)" opacity="0.85"><rect x="-16" y="-10" width="31" height="19" rx="8" fill="#FF6B2C"/></g><g transform="translate(209 259) rotate(314)" opacity="0.85"><rect x="-23" y="-14" width="46" height="28" rx="11" fill="#C8FF3D"/></g><g transform="translate(157 412) rotate(318)" opacity="0.85"><rect x="-26" y="-16" width="53" height="33" rx="13" fill="#46D5FF"/></g><g transform="translate(937 725) rotate(150)" opacity="0.85"><rect x="-20" y="-13" width="41" height="25" rx="10" fill="#FF4D6D"/></g><g transform="translate(451 740) rotate(54)" opacity="0.85"><rect x="-35" y="-22" width="70" height="44" rx="18" fill="#FFD23F"/></g><g transform="translate(258 247) rotate(175)" opacity="0.85"><rect x="-19" y="-12" width="39" height="24" rx="10" fill="#9D7BFF"/></g><g transform="translate(694 271) rotate(151)" opacity="0.85"><rect x="-14" y="-9" width="29" height="18" rx="7" fill="#FF6B2C"/></g><g transform="translate(462 500) rotate(249)" opacity="0.85"><rect x="-35" y="-22" width="70" height="43" rx="17" fill="#C8FF3D"/></g><g transform="translate(616 539) rotate(19)" opacity="0.85"><rect x="-29" y="-18" width="58" height="36" rx="15" fill="#46D5FF"/></g><g transform="translate(1022 662) rotate(287)" opacity="0.85"><rect x="-33" y="-21" width="67" height="41" rx="17" fill="#FF4D6D"/></g>
+  <text x="600" y="872" text-anchor="middle" font-family="sans-serif"
+        font-size="19" fill="#fff" opacity="0.32">사진 01</text>
+</svg>
