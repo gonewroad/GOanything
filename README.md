@@ -56,11 +56,21 @@ python3 -m http.server 8000
 
 ## 배포 (GitHub Pages)
 
-1. GitHub 저장소 → **Settings** → **Pages**
-2. Source를 **Deploy from a branch**, 브랜치를 `main` / 폴더를 `/ (root)` 로 지정
-3. 저장하면 `https://<사용자명>.github.io/GOanything/` 에 배포됩니다
+`.github/workflows/deploy-pages.yml` 이 `main` 푸시마다 사이트를 배포합니다.
+빌드 과정이 없으므로 저장소 내용을 그대로 올립니다.
 
-빌드 도구가 없으니 `main`에 푸시하는 것만으로 배포가 끝납니다.
+**최초 1회만** 저장소에서 Pages를 켜야 합니다. 워크플로의 기본 토큰에는
+Pages 사이트를 새로 만들 권한이 없어서 자동화할 수 없습니다.
+
+1. **Settings** → **Pages**
+2. Build and deployment → Source 를 **GitHub Actions** 로 변경
+3. Actions 탭에서 `Deploy to GitHub Pages` 를 다시 실행 (Re-run jobs)
+
+이후에는 `main` 에 푸시할 때마다 자동 배포됩니다.
+주소는 `https://<사용자명>.github.io/GOanything/` 입니다.
+
+워크플로 없이 가고 싶다면 Source 를 **Deploy from a branch** (`main` / `/ (root)`)
+로 두어도 됩니다. 그때는 `.github/workflows/deploy-pages.yml` 을 지우세요.
 
 ## 아직 채워야 하는 것
 

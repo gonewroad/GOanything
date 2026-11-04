@@ -25,10 +25,10 @@ jobs:
       - name: 저장소 체크아웃
         uses: actions/checkout@v4
 
-      - name: Pages 설정 (없으면 자동 활성화)
+      # Pages 활성화는 최초 1회 저장소 Settings 에서 해야 한다.
+      # 워크플로 기본 토큰으로는 Pages 사이트를 새로 만들 수 없다.
+      - name: Pages 설정 읽기
         uses: actions/configure-pages@v5
-        with:
-          enablement: true
 
       - name: 사이트 업로드
         uses: actions/upload-pages-artifact@v3
