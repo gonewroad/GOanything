@@ -244,7 +244,8 @@
 
 .stats {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  /* 카드 개수가 바뀌어도 빈 칸이 남지 않도록 자동 배치 */
+  grid-template-columns: repeat(auto-fit, minmax(132px, 1fr));
   gap: 12px;
 }
 
